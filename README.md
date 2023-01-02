@@ -1,6 +1,34 @@
-<p align="left"> 
-  <img alt="github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SO0O0&theme=dracula" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SO0O0&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=SO0O0&theme=onedark&show_icons=ture" />
-</p>
+<h1 align="center">
+  Hello
+  <br />
+  I am Sou Hirawata💙
+</h1>
 
+<h3 align="center">I am a college student in Japan.<br />I do deep learning research and web development as a hobby.</h3>
+
+<br />
+
+<h3 align="center">Language</h3>
+
+<div align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img alt="python" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img alt="cplusplus" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img alt="javascript" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  </a>
+ </div>
+
+<br />
+
+<h3 align="center">Status</h3>
+
+<p align="center">
+  <img alt="github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SO0O0&theme=tokyonight" />
+  <img alt="so0o0" width="700" src="https://github-profile-trophy.vercel.app/?username=so0o0&row=1&column=6&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SO0O0&layout=compact&show_icons=true&theme=tokyonight&hide=jupyter%20notebook" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=SO0O0&theme=tokyonight&show_icons=ture" />
+</p>
