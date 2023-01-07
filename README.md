@@ -29,6 +29,6 @@
 <p align="center">
   <img alt="github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SO0O0&theme=tokyonight" />
   <img alt="so0o0" width="700" src="https://github-profile-trophy.vercel.app/?username=so0o0&row=1&column=6&theme=tokyonight" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SO0O0&layout=compact&show_icons=true&theme=tokyonight&hide=jupyter%20notebook" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SO0O0&layout=compact&show_icons=true&theme=tokyonight&hide=jupyter%20notebook,shell" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=SO0O0&theme=tokyonight&show_icons=ture" />
 </p>
