@@ -1,24 +1,24 @@
 <h1 align="center">
-  Hello
+  Hello!
   <br />
-  I am Sou Hirawata💙
+  I am So Hirawata.
 </h1>
 
-<h3 align="center">I am a college student in Japan.<br />I do deep learning research and web development as a hobby.</h3>
+<h3 align="center">I am now a junior at the university. <br>In university, I majored in computer science and am doing research on automatic composition. <br>I also enjoy competitive programming and web development.</h3>
 
 <br />
 
 <h3 align="center">Language</h3>
 
 <div align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img alt="python" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img alt="cplusplus" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img alt="javascript" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img alt="python" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   </a>
  </div>
 
