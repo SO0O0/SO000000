@@ -1,34 +1,26 @@
-<h1 align="center">
-  Hello!
-  <br />
-  I am So Hirawata.
-</h1>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fightingsou)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sohirawata)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohirawata)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fightingsou)
 
-<h3 align="center">I am now a junior at the university. <br>In university, I majored in computer science and am doing research on automatic composition. <br>I also enjoy competitive programming and web development.</h3>
+<h1>Hi, I'm So Hirawata 😉</h1>
+<p>University student at Tokyo City University and assistant at JAMSTEC.</p>
 
-<br />
 
-<h3 align="center">Language</h3>
+### ❤️ My favorite language and tools :
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<div align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img alt="cplusplus" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img alt="javascript" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img alt="python" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  </a>
- </div>
+### 📊 Stats :
+![](https://github-readme-stats.vercel.app/api?username=fightingsou&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=fightingsou&theme=midnight-purple&hide_border=false)<br/>
 
-<br />
-
-<h3 align="center">Status</h3>
-
-<p align="center">
-  <img alt="github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fightingsou&theme=tokyonight" />
-  <img alt="so0o0" width="700" src="https://github-profile-trophy.vercel.app/?username=fightingsou&row=1&column=6&theme=tokyonight" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-iota-gilt.vercel.app/api/top-langs/?username=fightingsou&layout=compact&show_icons=true&theme=tokyonight&hide=jupyter%20notebook,shell" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats-iota-gilt.vercel.app/api?username=fightingsou&theme=tokyonight&show_icons=ture" />
-</p>
