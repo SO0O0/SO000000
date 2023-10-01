@@ -1,11 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=fightingsou&color=blueviolet)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fightingsou)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hirawataso)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohirawata)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hirawataso)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fightingsou)
 
 <h1>Hi, I'm So Hirawata 😉</h1>
-<p>University student at Tokyo City University and assistant at JAMSTEC.</p>
+<p>University student at Tokyo City University and research assistant at Japan Agency for Marine-Earth Science and Technology.</p>
 
 
 ### ❤️ My favorite language and tools :
