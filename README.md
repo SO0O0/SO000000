@@ -20,6 +20,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 Stats :
-![](https://github-readme-stats.vercel.app/api?username=fightingsou&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=fightingsou&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=fightingso&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=fightingso&theme=midnight-purple&hide_border=false)<br/>
 
