@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://avatars.githubusercontent.com/u/104222305?v=4" width="150" style="border-radius: 50%;" alt="Logo"/><br/>
+  <img src="https://avatars.githubusercontent.com/u/104222305?v=4" width="150" alt="Logo"/><br/>
   Serada
 </h3>
 
@@ -55,6 +55,6 @@
 
 <div>
   <h2 align="left">📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=sserada&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true" alt="README Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sserada&theme=midnight-purple&hide_border=false" alt="README Streak Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sserada&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true" alt="README Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sserada&theme=midnight-purple&hide_border=false" alt="README Streak Stats" height="150" />
 </div>
